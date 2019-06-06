@@ -1,3 +1,4 @@
 /IMDB/data
 /IMDB/data/*
 /cache
+*/.ipynb_checkpoints/*
